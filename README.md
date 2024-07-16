@@ -1,5 +1,5 @@
 # Discord-bot
-A discord bot for sending invitation links and messages, adding roles and nicknames.
+A discord bot for sending invitation links and messages, adding roles and nicknames.(works with python verisons older than 3.11)
 - "!sendInvite your message" is used for sending discord server invitations to people. You need to add an excel file with Email, Name and Surname headers.
 - "!sendMessage your message" is used for sending messages. You need to add an excel file with Email and Name headers.
 - "!addNick" adds name and surname as server nickname. Gets data from the alreadt provided users.xlsx file.
