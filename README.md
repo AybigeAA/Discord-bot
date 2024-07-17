@@ -10,4 +10,3 @@ A discord bot for sending invitation links and messages, adding roles and nickna
 - "!show name surname" shows the info of the user provided.
 + If shows an error about e-mail and password, it is probably because of the credentials.json or token.json file. Make sure that they are coorect.token.json can be deleted, when mail is used it will be created.
 +Also make sure to use the right token and channel id.
-#udasgduaıb
