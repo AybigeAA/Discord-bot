@@ -8,5 +8,5 @@ A discord bot for sending invitation links and messages, adding roles and nickna
 - "!ban" bans users for 2 years also unbans them when 2 years is up.
 - "!update" updates the users.xlsx with the provided data. The file that you provide as you type the command must be configured just like the users.xlsx.
 - "!show name surname" shows the info of the user provided.
-+ If shows an error about e-mail and password, it is probably because of the credentials.json or token.json file. Make sure that they are coorect.token.json can be deleted, when mail is used it will be created.
++ If shows an error about e-mail and password, it is probably because of the credentials.json or token.json file. Make sure that they are correct. token.json can be deleted, when mail is used it will be created.
 +Also make sure to use the right token and channel id.
